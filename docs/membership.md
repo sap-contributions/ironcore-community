@@ -78,7 +78,7 @@ Nomination is done through a PR to the `teams.yaml` file.
 #### Requirements
 
 - Must already hold the **Contributor** role in the target area
-- Approval by **TSC majority vote**
+- Approval by **at least four TSC voting members** on the pull request
 
 ## TSC Member
 
